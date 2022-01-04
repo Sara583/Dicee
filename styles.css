@@ -1,0 +1,44 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+background-image: linear-gradient(to top, #393333, #553232, #6f2f2f, #882929, #9f2020);
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Roboto Slab', serif;
+  text-shadow: 2px 0 #882929;
+  font-size: 8rem;
+  color: #040303;
+}
+
+p {
+  font-size: 2rem;
+  color: #040303;
+  font-family: 'Roboto Slab', serif;;
+  text-align: center;
+  line-height: 1.5;
+  padding: 30px;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+
+}
